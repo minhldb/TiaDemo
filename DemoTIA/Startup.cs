@@ -9,6 +9,8 @@ namespace DemoTIA
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+            // add code 1
+            // add conde 2
         }
     }
 }
