@@ -10,7 +10,8 @@ namespace DemoTIA
         {
             ConfigureAuth(app);
             // add code 1
-            // add conde 2
+            // add code 2
+            // add code 3
         }
     }
 }
